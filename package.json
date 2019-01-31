@@ -1,0 +1,19 @@
+{
+  "name": "datosfb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "node-fetch": "^2.3.0",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "firebase": "^5.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
